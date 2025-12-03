@@ -1,4 +1,4 @@
-name: Automated Release Publishing
+name: Pure Date Release System
 
 on:
   workflow_dispatch:  # 手动触发选项
@@ -7,54 +7,59 @@ on:
       - "[0-9][0-9][0-1][0-9][0-3][0-9]"  # 匹配六位数字日期标签（如251204）
 
 jobs:
-  create-release:
+  date-release:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # 获取完整 commit 历史
+          fetch-depth: 0  # 获取完整提交历史
           
-      - name: Generate Release Name
-        id: date_tag
+      - name: Auto Detect Tag (For manual trigger)
+        if: github.event_name == 'workflow_dispatch'
+        id: auto_tag
         run: |
-          # 生成六位数字日期格式 (YYMMDD)
-          RELEASE_NAME=$(date -u "+%y%m%d")
-          echo "release_name=${RELEASE_NAME}" >> $GITHUB_OUTPUT
+          RELEASE_TAG=$(date -u "+%y%m%d")
+          echo "release_tag=${RELEASE_TAG}" >> $GITHUB_OUTPUT
           
-      - name: Get Commit History
-        id: commits
+      - name: Use Pushed Tag (For tag push)
+        if: github.event_name == 'push'
+        id: pushed_tag
         run: |
-          # 获取上次发布后的 commits
-          if git describe --tags --abbrev=0 &> /dev/null; then
-            LAST_TAG=$(git describe --tags --abbrev=0)
-            COMMITS=$(git log ${LAST_TAG}..HEAD --pretty=format:"%h - %s (%an)" || echo "Initial release")
+          echo "release_tag=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+          
+      - name: Generate Release Notes
+        id: release_notes
+        run: |
+          # 获取所有标签
+          git fetch --tags
+          
+          # 如果有之前的日期标签
+          if [ $(git tag | grep -cE '^[0-9]{6}$') -gt 0 ]; then
+            PREV_TAG=$(git tag --sort=-creatordate | grep -E '^[0-9]{6}$' | head -1)
+            COMMITS=$(git log ${PREV_TAG}..HEAD --pretty=format:"- [%h] %s (%an)")
+            echo "release_notes=**更新内容**\n${COMMITS}" >> $GITHUB_OUTPUT
           else
-            COMMITS=$(git log --pretty=format:"%h - %s (%an)")
+            COMMITS=$(git log --pretty=format:"- [%h] %s (%an)")
+            echo "release_notes=**初始发布**\n${COMMITS}" >> $GITHUB_OUTPUT
           fi
-          
-          # 转义换行符用于多行输出
-          COMMITS="${COMMITS//'%'/'%25'}"
-          COMMITS="${COMMITS//$'\n'/'%0A'}"
-          
-          echo "commits=${COMMITS}" >> $GITHUB_OUTPUT
           
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: v${{ steps.date_tag.outputs.release_name }}
-          name: Release ${{ steps.date_tag.outputs.release_name }}
+          tag_name: ${{ fromJSON(format('["{0}", "{1}"]', steps.auto_tag.outputs.release_tag, steps.pushed_tag.outputs.release_tag))[github.event_name == 'workflow_dispatch' ? 0 : 1] }}
+          name: Release ${{ fromJSON(format('["{0}", "{1}"]', steps.auto_tag.outputs.release_tag, steps.pushed_tag.outputs.release_tag))[github.event_name == 'workflow_dispatch' ? 0 : 1] }}
           body: |
-            ### 变更日志
-            ${{ steps.commits.outputs.commits }}
+            ${{ steps.release_notes.outputs.release_notes }}
             
-            _自动生成于 ${{ steps.date_tag.outputs.release_name }}_
+            _自动化生成 @ ${{ fromJSON(format('["{0}", "{1}"]', steps.auto_tag.outputs.release_tag, steps.pushed_tag.outputs.release_tag))[github.event_name == 'workflow_dispatch' ? 0 : 1] }}_
           draft: false
           prerelease: false
           
-      - name: Upload Asset
+      - name: Upload Single File
         uses: actions/upload-release-asset@v1
         with:
           upload_url: ${{ github.event.release.upload_url }}
           asset_path: execwb-settings.txt  # 替换为你的文件名
-          asset_name: release-${{ steps.date_tag.outputs.release_name }}.txt
+          asset_name: ${{ github.repository }}_${{ fromJSON(format('["{0}", "{1}"]', steps.auto_tag.outputs.release_tag, steps.pushed_tag.outputs.release_tag))[github.event_name == 'workflow_dispatch' ? 0 : 1] }}.txt
+          asset_content_type: text/plain  # 根据文件类型修改
