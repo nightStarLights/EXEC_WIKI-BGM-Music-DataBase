@@ -1,26 +1,40 @@
-name: Upload to Release
+name: Upload File to Release
 
 on:
   push:
     tags:
-      - "**"  # 匹配所有 tag（如 251022）
+      - "**"   # 自动触发：推送任何 tag 时执行
+  workflow_dispatch:   # 添加手动触发配置
+    inputs:
+      target-tag:
+        description: "Tag name to upload to (e.g. 251022)"
+        required: true
+        type: string
 
 jobs:
-  upload-file:
+  upload:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Get tag name
-        id: get-tag
+      
+      - name: Verify file exists
+        run: ls execwb-settings.txt || exit 1  # 验证文件存在
+        
+      - name: Set tag name
+        id: set-tag
         run: |
-          echo "TAG_NAME=${GITHUB_REF#refs/tags/}" >> $GITHUB_ENV
-
+          # 自动触发时使用推送的 tag，手动触发时使用输入的 tag
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            echo "TAG_NAME=${{ github.event.inputs.target-tag }}" >> $GITHUB_ENV
+          else
+            echo "TAG_NAME=${GITHUB_REF#refs/tags/}" >> $GITHUB_ENV
+          fi
+          
       - name: Upload to Release
         uses: softprops/action-gh-release@v1
         with:
-          files: execwb-settings.txt  # 要上传的文件名
-          tag_name: ${{ env.TAG_NAME }}  # 使用当前推送的 tag
+          files: execwb-settings.txt
+          tag_name: ${{ env.TAG_NAME }}
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 自动生成的权限令牌
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
