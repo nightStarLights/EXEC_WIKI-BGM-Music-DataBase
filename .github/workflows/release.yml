@@ -1,9 +1,10 @@
 name: Automated Release Publishing
 
 on:
+  workflow_dispatch:  # 手动触发选项
   push:
     tags:
-      - "*"  # 触发条件：当推送类似 v251204 的标签时
+      - "[0-9][0-9][0-1][0-9][0-3][0-9]"  # 匹配六位数字日期标签（如251204）
 
 jobs:
   create-release:
