@@ -1,0 +1,59 @@
+name: Automated Release Publishing
+
+on:
+  push:
+    tags:
+      - "*"  # 触发条件：当推送类似 v251204 的标签时
+
+jobs:
+  create-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 获取完整 commit 历史
+          
+      - name: Generate Release Name
+        id: date_tag
+        run: |
+          # 生成六位数字日期格式 (YYMMDD)
+          RELEASE_NAME=$(date -u "+%y%m%d")
+          echo "release_name=${RELEASE_NAME}" >> $GITHUB_OUTPUT
+          
+      - name: Get Commit History
+        id: commits
+        run: |
+          # 获取上次发布后的 commits
+          if git describe --tags --abbrev=0 &> /dev/null; then
+            LAST_TAG=$(git describe --tags --abbrev=0)
+            COMMITS=$(git log ${LAST_TAG}..HEAD --pretty=format:"%h - %s (%an)" || echo "Initial release")
+          else
+            COMMITS=$(git log --pretty=format:"%h - %s (%an)")
+          fi
+          
+          # 转义换行符用于多行输出
+          COMMITS="${COMMITS//'%'/'%25'}"
+          COMMITS="${COMMITS//$'\n'/'%0A'}"
+          
+          echo "commits=${COMMITS}" >> $GITHUB_OUTPUT
+          
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: v${{ steps.date_tag.outputs.release_name }}
+          name: Release ${{ steps.date_tag.outputs.release_name }}
+          body: |
+            ### 变更日志
+            ${{ steps.commits.outputs.commits }}
+            
+            _自动生成于 ${{ steps.date_tag.outputs.release_name }}_
+          draft: false
+          prerelease: false
+          
+      - name: Upload Asset
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ github.event.release.upload_url }}
+          asset_path: execwb-settings.txt  # 替换为你的文件名
+          asset_name: release-${{ steps.date_tag.outputs.release_name }}.txt
