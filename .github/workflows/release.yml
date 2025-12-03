@@ -1,65 +1,26 @@
-name: Pure Date Release System
+name: Upload to Release
 
 on:
-  workflow_dispatch:  # 手动触发选项
   push:
     tags:
-      - "[0-9][0-9][0-1][0-9][0-3][0-9]"  # 匹配六位数字日期标签（如251204）
+      - "**"  # 匹配所有 tag（如 251022）
 
 jobs:
-  date-release:
+  upload-file:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0  # 获取完整提交历史
-          
-      - name: Auto Detect Tag (For manual trigger)
-        if: github.event_name == 'workflow_dispatch'
-        id: auto_tag
+
+      - name: Get tag name
+        id: get-tag
         run: |
-          RELEASE_TAG=$(date -u "+%y%m%d")
-          echo "release_tag=${RELEASE_TAG}" >> $GITHUB_OUTPUT
-          
-      - name: Use Pushed Tag (For tag push)
-        if: github.event_name == 'push'
-        id: pushed_tag
-        run: |
-          echo "release_tag=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
-          
-      - name: Generate Release Notes
-        id: release_notes
-        run: |
-          # 获取所有标签
-          git fetch --tags
-          
-          # 如果有之前的日期标签
-          if [ $(git tag | grep -cE '^[0-9]{6}$') -gt 0 ]; then
-            PREV_TAG=$(git tag --sort=-creatordate | grep -E '^[0-9]{6}$' | head -1)
-            COMMITS=$(git log ${PREV_TAG}..HEAD --pretty=format:"- [%h] %s (%an)")
-            echo "release_notes=**更新内容**\n${COMMITS}" >> $GITHUB_OUTPUT
-          else
-            COMMITS=$(git log --pretty=format:"- [%h] %s (%an)")
-            echo "release_notes=**初始发布**\n${COMMITS}" >> $GITHUB_OUTPUT
-          fi
-          
-      - name: Create Release
+          echo "TAG_NAME=${GITHUB_REF#refs/tags/}" >> $GITHUB_ENV
+
+      - name: Upload to Release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: ${{ fromJSON(format('["{0}", "{1}"]', steps.auto_tag.outputs.release_tag, steps.pushed_tag.outputs.release_tag))[github.event_name == 'workflow_dispatch' ? 0 : 1] }}
-          name: Release ${{ fromJSON(format('["{0}", "{1}"]', steps.auto_tag.outputs.release_tag, steps.pushed_tag.outputs.release_tag))[github.event_name == 'workflow_dispatch' ? 0 : 1] }}
-          body: |
-            ${{ steps.release_notes.outputs.release_notes }}
-            
-            _自动化生成 @ ${{ fromJSON(format('["{0}", "{1}"]', steps.auto_tag.outputs.release_tag, steps.pushed_tag.outputs.release_tag))[github.event_name == 'workflow_dispatch' ? 0 : 1] }}_
-          draft: false
-          prerelease: false
-          
-      - name: Upload Single File
-        uses: actions/upload-release-asset@v1
-        with:
-          upload_url: ${{ github.event.release.upload_url }}
-          asset_path: execwb-settings.txt  # 替换为你的文件名
-          asset_name: ${{ github.repository }}_${{ fromJSON(format('["{0}", "{1}"]', steps.auto_tag.outputs.release_tag, steps.pushed_tag.outputs.release_tag))[github.event_name == 'workflow_dispatch' ? 0 : 1] }}.txt
-          asset_content_type: text/plain  # 根据文件类型修改
+          files: execwb-settings.txt  # 要上传的文件名
+          tag_name: ${{ env.TAG_NAME }}  # 使用当前推送的 tag
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 自动生成的权限令牌
