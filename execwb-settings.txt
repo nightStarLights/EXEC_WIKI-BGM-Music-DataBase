@@ -1,4 +1,4 @@
-{"bgmUID":"","newInfoBox":"{{Infobox Album\n|中文名= \n|别名={\n[]\n}\n|版本特性= \n|发售日期= \n|价格={\n[]\n[Shop|]\n[Event|]\n[Web|]\n}\n|播放时长={\n[]\n[DISC 1|]\n[DISC 2|]\n}\n|设计={\n[]\n}\n|碟片数量= \n|品番={\n[]\n[]\n}\n|官方网站= \n|链接={\n[MV|]\n[试听|]\n[YouTube|]\n[Big Up!|]\n[LinkCore|]\n[Booth.pm|]\n[Dizzylab|]\n[Bandcamp|]\n[Melonbooks|]\n[Apple Music|]\n}\n|版本:={\n[版本特性|]\n[价格|]\n[播放时长|]\n[碟片数量|]\n[品番|]\n}\n}}","shouldCleanCircleParentheses":false,"allowAllSpaceInCreatorName":false,"shouldAutofillArrangment":false,"defaultOpenBGMNewAfterPack":false,"enableFeatVocal":false}
+{"bgmUID":"theanwseris42","newInfoBox":"{{Infobox Album\n|中文名= \n|别名={\n[]\n}\n|版本特性= \n|发售日期= \n|价格={\n[]\n[Shop|]\n[Event|]\n[Web|]\n}\n|播放时长={\n[]\n[DISC 1|]\n[DISC 2|]\n}\n|设计={\n[]\n}\n|碟片数量= \n|品番={\n[]\n[]\n}\n|官方网站= \n|链接={\n[MV|]\n[试听|]\n[YouTube|]\n[Big Up!|]\n[LinkCore|]\n[Booth.pm|]\n[Dizzylab|]\n[Bandcamp|]\n[Melonbooks|]\n[Apple Music|]\n}\n|版本:={\n[版本特性|]\n[价格|]\n[播放时长|]\n[碟片数量|]\n[品番|]\n}\n}}","shouldCleanCircleParentheses":false,"allowAllSpaceInCreatorName":false,"shouldAutofillArrangment":false,"defaultOpenBGMNewAfterPack":false,"enableFeatVocal":false}
 1	https://lain.bgm.tv/pic/crt/l/a6/e8/1_prsn_k7wpt.jpg	水樹奈々	近藤奈々 (こんどう なな)	みずき なな	Mizuki Nana	奈々ちゃん、奈々さん、奈々様、お奈々、ヘッド
 3	https://lain.bgm.tv/pic/crt/l/ec/cb/3_prsn_anidb.jpg	和田薫	わだ かおる	Wada Kaoru
 28	https://lain.bgm.tv/pic/crt/l/41/c7/28_prsn_0GyWJ.jpg	桜井弘明	樱井弘明	さくらい ひろあき	Sakurai Hiroaki
@@ -1224,6 +1224,7 @@
 10509	https://lain.bgm.tv/pic/crt/l/84/95/10509_prsn_4R7rT.jpg	六ツ見純代	むつみ すみよ	Sumiyo Mutsumi
 10531	https://lain.bgm.tv/pic/crt/l/0f/15/10531_prsn_kNd93.jpg	重永亮介	しげなが りょうすけ	Ryosuke Shigenaga
 10532	https://lain.bgm.tv/pic/crt/l/c8/2c/10532_prsn_UA9E9.jpg	丸山真由子	まるやま まゆこ	Mayuko Maruyama
+10533		角野寿和	かどの としかず	Toshikazu Kadono
 10534	https://lain.bgm.tv/pic/crt/l/09/c8/10534_prsn_z9oOe.jpg	湯浅篤	ゆあさ あつし	Atsushi Yuasa
 10545	https://lain.bgm.tv/pic/crt/l/11/87/10545_prsn_2vTV3.jpg	山田ひろし	やまだ ひろし	Yamada Hiroshi
 10555	https://lain.bgm.tv/pic/crt/l/a6/7d/10555_prsn_Q6QWp.jpg	フカヒレ
@@ -1599,6 +1600,7 @@
 13771	https://lain.bgm.tv/pic/crt/l/c2/30/13771_prsn_sx88S.jpg	霧島はるな	霧島はるな＝水無月じゅん	霧島 はるな	きりしま はるな	Kirishima Haruna
 13778	https://lain.bgm.tv/pic/crt/l/46/54/13778_prsn_2V2ko.jpg	オオヤギヒロオ	大八木弘雄	Hiroo Ooyagi
 13780	https://lain.bgm.tv/pic/crt/l/8b/a3/13780_prsn_GJ4Qe.jpg	Carlos K.	カルロス・ケー	PASSiON KiNG	Luis Ogata
+13782	https://lain.bgm.tv/pic/crt/l/cb/18/13782_prsn_Xx1Ae.jpg	菊地成孔	きくち なるよし	Naruyoshi Kikuchi
 13793	https://lain.bgm.tv/pic/crt/l/b2/c2/13793_prsn_82zza.jpg	久保田浩	じみた	Jimita	久保田 浩	くぼた ひろし	Hiroshi Kubota
 13811	https://lain.bgm.tv/pic/crt/l/3c/b6/13811_prsn_Oblml.jpg	園田健太郎	園田 健太郎	そのだ けんたろう	Sonoda Kentarō	木村有希	園田智也
 13812	https://lain.bgm.tv/pic/crt/l/ef/49/13812_prsn_0B0Ar.jpg	コトリンゴ	kotringo	三吉里絵子
@@ -2573,6 +2575,7 @@
 33778	https://lain.bgm.tv/pic/crt/l/8f/21/33778_prsn_2zAIf.jpg	石井健太郎	Kentaro Ishii	いしい けんたろう
 33803	https://lain.bgm.tv/pic/crt/l/54/ea/33803_prsn_ofJl2.jpg	亀吉いちこ	いちこ	イチコ
 33809	https://lain.bgm.tv/pic/crt/l/03/b7/33809_prsn_tJuV9.jpg	上倉エク
+33814	https://lain.bgm.tv/pic/crt/l/27/d8/33814_prsn_VSNSM.jpg	あるてら
 33831	https://lain.bgm.tv/pic/crt/l/d6/ca/33831_prsn_CrDRC.jpg	月神るな
 33835	https://lain.bgm.tv/pic/crt/l/a0/13/33835_prsn_w2wKE.jpg	森倉円
 33845	https://lain.bgm.tv/pic/crt/l/00/49/33845_prsn_nuRiP.jpg	美波	みなみ	Minami	373
@@ -2582,6 +2585,7 @@
 33908	https://lain.bgm.tv/pic/crt/l/f0/2f/33908_prsn_99q4T.jpg	XAI	さい あいか	崔 愛花	サイ
 33910	https://lain.bgm.tv/pic/crt/l/99/0c/33910_prsn_GKGjZ.jpg	Tsukasa	TSUKASA "RAYTO" BABA	RAYTO
 33911	https://lain.bgm.tv/pic/crt/l/b8/1a/33911_prsn_HxRs1.jpg	b-UMB	crokasa
+33927	https://lain.bgm.tv/pic/crt/l/ac/68/33927_prsn_JVR92.jpg	Anly	アンリィ
 33935	https://lain.bgm.tv/pic/crt/l/b2/a5/33935_prsn_ExZpp.jpg	天野聡美	天野聪美	天野 聡美	あまの さとみ	Amano Satomi
 33938	https://lain.bgm.tv/pic/crt/l/71/4e/33938_prsn_DFatz.jpg	Kanata Okajima	岡嶋かな多	おかじま かなた
 33966		斉藤信治
@@ -3498,6 +3502,7 @@
 54376	https://lain.bgm.tv/pic/crt/l/93/ad/54376_prsn_eHo0o.jpg	刘阔	Kuo Liu
 54384	https://lain.bgm.tv/pic/crt/l/4e/45/54384_prsn_RF7rF.jpg	加瀬邦彦	かせ くにひこ	Kase Kunihiko
 54422	https://lain.bgm.tv/pic/crt/l/02/2d/54422_prsn_nBnko.jpg	由末イリ	iri
+54446	https://lain.bgm.tv/pic/crt/l/bd/9d/54446_prsn_mLzmk.jpg	JELEE
 54639	https://lain.bgm.tv/pic/crt/l/50/84/54639_prsn_PJAJj.jpg	Azell	馬渕英樹
 54670	https://lain.bgm.tv/pic/crt/l/f9/43/54670_prsn_TIAaY.jpg	楡井希実	のんすけ	世羅のぞみ	にれい のぞみ	Nozomi Nirei	のんちゃん
 54671	https://lain.bgm.tv/pic/crt/l/ed/d1/54671_prsn_i37pq.jpg	菅叶和	かん かんな	カン カンナ	Kanna Kan
@@ -5055,6 +5060,7 @@
 69654	https://lain.bgm.tv/pic/crt/l/71/0a/69654_prsn_kVPFi.jpg	浮輪汽船
 69656		Neeshe	にーしぇ
 69657		たま	たまちゃん
+69675	https://lain.bgm.tv/pic/crt/l/fd/04/69675_prsn_UcY21.jpg	John Kafka	ジョンカフカ
 69682	https://lain.bgm.tv/pic/crt/l/0a/2d/69682_prsn_1lb3Y.jpg	水魚みぃむ
 69683	https://lain.bgm.tv/pic/crt/l/c0/f7/69683_prsn_q0Rfn.jpg	wagataki
 69684	https://lain.bgm.tv/pic/crt/l/6b/09/69684_prsn_e7k1i.jpg	ヤミヤミ	神山やみか
@@ -7373,6 +7379,17 @@
 84186	https://lain.bgm.tv/pic/crt/l/a4/cd/84186_prsn_F96NN.jpg	yumel	ゆめる
 84187	https://lain.bgm.tv/pic/crt/l/5b/b0/84187_prsn_lj0Ii.jpg	Kumamin	クマミン
 84236	https://lain.bgm.tv/pic/crt/l/97/00/84236_prsn_Ne953.jpg	hasumi
+84252	https://lain.bgm.tv/pic/crt/l/4b/29/84252_prsn_2O5Ep.jpg	海月ヨル
+84261	https://lain.bgm.tv/pic/crt/l/6b/6a/84261_prsn_gvGef.jpg	Hizuru Saito	mirgliP	Hizuru	Pilgrim
+84351	https://lain.bgm.tv/pic/crt/l/2c/c6/84351_prsn_DizBp.jpg	hirihiri	dj twinturbo
+84352	https://lain.bgm.tv/pic/crt/l/be/08/84352_prsn_BbGeI.jpg	ハナカミリユウ	ハナカミリュウ	Ryu Hanakami
+84353	https://lain.bgm.tv/pic/crt/l/e7/cf/84353_prsn_217sv.jpg	acloudyskye
+84354	https://lain.bgm.tv/pic/crt/l/b7/be/84354_prsn_fEr6n.jpg	VITICZ	Suherman Suherwan
+84355	https://lain.bgm.tv/pic/crt/l/c4/72/84355_prsn_62eBm.jpg	reallerr	guitarhero
+84358	https://lain.bgm.tv/pic/crt/l/02/d3/84358_prsn_mwQF9.jpg	ohon
+84360	https://lain.bgm.tv/pic/crt/l/29/1d/84360_prsn_88PpZ.jpg	Fellsius	Kanta Sano
+84361	https://lain.bgm.tv/pic/crt/l/db/9a/84361_prsn_yL6EZ.jpg	K3nto
+84362	https://lain.bgm.tv/pic/crt/l/4b/e4/84362_prsn_a6KA9.jpg	Satoru Igarashi
 84363	https://lain.bgm.tv/pic/crt/l/4a/5a/84363_prsn_iLXDv.jpg	四多トオリ
 84364	https://lain.bgm.tv/pic/crt/l/e3/44/84364_prsn_3A83a.jpg	石戸絢真	いしど
 84365	https://lain.bgm.tv/pic/crt/l/21/32/84365_prsn_rz88R.jpg	織辺
