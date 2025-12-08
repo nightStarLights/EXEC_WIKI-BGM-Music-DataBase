@@ -67,6 +67,7 @@
 1339	https://lain.bgm.tv/pic/crt/l/d1/0e/1339_prsn_anidb.jpg	CIRCUS	サーカス	Circus
 1340	https://lain.bgm.tv/pic/crt/l/68/3d/1340_prsn_07lo4.jpg	菅野祐悟	かんの ゆうご	Kanno Yūgo
 1344	https://lain.bgm.tv/pic/crt/l/a5/0a/1344_prsn_anidb.jpg	片倉三起也	片倉三起也	かたくら みきや	Katakura Mikiya
+1379	https://lain.bgm.tv/pic/crt/l/ba/d5/1379_prsn_anidb.jpg	船山基紀	船山基紀	ふなやまもとき	Funayama Motoki
 1387	https://lain.bgm.tv/pic/crt/l/66/ec/1387_prsn_sWONt.jpg	渡辺宙明	渡辺 宙明	わたなべ ちゅうめい	Watanabe Chūmei	わたなべ みちあき
 1415	https://lain.bgm.tv/pic/crt/l/9d/1b/1415_prsn_Id22l.jpg	佐野広明	HuMI	佐野広明	さの ひろあき	Sano Hiroaki
 1434	https://lain.bgm.tv/pic/crt/l/44/05/1434_prsn_4H6H2.jpg	メモリーテック	Memory-Tech Corporation	Memory-Tech Corporation	メモリーテック株式会社	Memory-Tech
@@ -79,6 +80,7 @@
 1638	https://lain.bgm.tv/pic/crt/l/71/59/1638_prsn_Tw3Rf.jpg	久石譲	久石让	Mamoru Fujisawa	Fujisawa Mamoru	ふじさわ まもる	藤泽守	Joe Hisaishi	藤澤守	ひさいし じょう	Hisaishi Joe
 1648	https://lain.bgm.tv/pic/crt/l/94/c4/1648_prsn_I4RfC.jpg	川崎真弘	川崎雅文	かわさきまさひろ	Kawasaki Masahiro
 1669	https://lain.bgm.tv/pic/crt/l/cd/f1/1669_prsn_anidb.jpg	筒井広志	つついひろし	Tsutsui Hiroshi
+1679	https://lain.bgm.tv/pic/crt/l/e6/38/1679_prsn_anidb.jpg	鈴木宏昌	すずきひろまさ	Suzuki Hiromasa	コルゲンさん
 1693	https://lain.bgm.tv/pic/crt/l/b5/9a/1693_prsn_anidb.jpg	朝川朋之	田中太郎	あさかわともゆき	Asakawa Tomoyuki
 1762	https://lain.bgm.tv/pic/crt/l/79/b3/1762_prsn_P01Lx.jpg	千住明	せんじゅあきら	Senju Akira
 1774	https://lain.bgm.tv/pic/crt/l/66/93/1774_prsn_g23JW.jpg	小林亜星	マーク・HAMA	小林亞星	こばやしあせい	Kobayashi Asei
@@ -106,10 +108,13 @@
 2307	https://lain.bgm.tv/pic/crt/l/62/11/2307_prsn_anidb.jpg	宮沢賢治	宫泽贤治	宮澤賢治	みやざわけんじ	Miyazawa Kenji
 2333	https://lain.bgm.tv/pic/crt/l/0d/2e/2333_prsn_zufeG.jpg	UNDER17	UNDER17	アンダーセブンティーン	Under17
 2353	https://lain.bgm.tv/pic/crt/l/23/af/2353_prsn_anidb.jpg	クニ河内	かわちくにお	クニかわち	Kuni Kawachi
+2385	https://lain.bgm.tv/pic/crt/l/1a/68/2385_prsn_anidb.jpg	タケカワユキヒデ	Takekawa Yukihide
 2391	https://lain.bgm.tv/pic/crt/l/10/2f/2391_prsn_anidb.jpg	藤原いくろう	Ikuro "Amadeus" Fujiwara	Ikuroh Fujiwara	Ikuro Fujiwara	ふじわらいくろう	Fujiwara Ikurou
+2401	https://lain.bgm.tv/pic/crt/l/5a/4a/2401_prsn_S4Jr2.jpg	VISUAL ARTS	Visual Art's	VA	株式会社ビジュアルアーツ	ビジュアルアーツ
 2402	https://lain.bgm.tv/pic/crt/l/c5/57/2402_prsn_rcn3T.jpg	樋上いたる	ひのうえいたる	Hinoue Itaru	桶妈/樋妈
 2404	https://lain.bgm.tv/pic/crt/l/fb/a8/2404_prsn_NPxeB.jpg	石谷春貴	石谷春贵	井伊筋肉	石谷 春貴	いしや はるき	Ishiya Haruki
 2460	https://lain.bgm.tv/pic/crt/l/ad/d2/2460_prsn_TIhSf.jpg	石田勝範	いしだかつのり	Ishida Katsunori
+2463	https://lain.bgm.tv/pic/crt/l/18/43/2463_prsn_anidb.jpg	山川恵津子	Yamakawa Etsuko
 2485	https://lain.bgm.tv/pic/crt/l/ea/4e/2485_prsn_anidb.jpg	服部良一	夏端齢	村雨まさを	はっとりりょういち	Hattori Ryouichi
 2493	https://lain.bgm.tv/pic/crt/l/8a/20/2493_prsn_anidb.jpg	山本直純	山本直纯	やまもとなおずみ	Yamamoto Naozumi
 2535	https://lain.bgm.tv/pic/crt/l/66/f9/2535_prsn_jHSgN.jpg	須藤賢一	すどうけんいち	Sudou Ken`ichi
@@ -129,6 +134,7 @@
 2748	https://lain.bgm.tv/pic/crt/l/c9/83/2748_prsn_6uvWS.jpg	磯江俊道	いそえとしみち	Isoe Toshimichi
 2749	https://lain.bgm.tv/pic/crt/l/6f/14/2749_prsn_tcl67.jpg	藤間仁	藤间仁	ふじまひとし	Fujima Hitoshi
 2815	https://lain.bgm.tv/pic/crt/l/18/cb/2815_prsn_6w567.jpg	澤口和彦	サワグチカズヒコ	さわぐちかずひこ	Sawaguchi Kazuhiko
+2836	https://lain.bgm.tv/pic/crt/l/1c/7f/2836_prsn_LISHe.jpg	栗原正己	くりはらまさき	Kurihara Masaki
 2893	https://lain.bgm.tv/pic/crt/l/79/d2/2893_prsn_140QI.jpg	中原涼	なかはらしずか	nakahara shizuka
 2894	https://lain.bgm.tv/pic/crt/l/5b/41/2894_prsn_anidb.jpg	新川博	しんかわひろし	Shinkawa Hiroshi
 2953	https://lain.bgm.tv/pic/crt/l/de/c6/2953_prsn_T4z44.jpg	京田誠一	きょうだせいいち	Kyouda Seiichi
@@ -172,6 +178,7 @@
 3581	https://lain.bgm.tv/pic/crt/l/d3/3d/3581_prsn_FFS8C.jpg	藤澤健至	藤沢健至	藤澤健至	ふじさわ けんじ	Fujisawa Kenji
 3584	https://lain.bgm.tv/pic/crt/l/1c/0e/3584_prsn_LXUh3.jpg	植松伸夫	植松 伸夫	うえまつ のぶお	Uematsu Nobuo	ノビヨ
 3587	https://lain.bgm.tv/pic/crt/l/6c/4e/3587_prsn_U8Qmm.jpg	橋本由香利	桥本由香利	marianne Amplifier	はしもとゆかり	Hashimoto Yukari
+3610	https://lain.bgm.tv/pic/crt/l/90/4f/3610_prsn_HTKsU.jpg	井内舞子	Uetsu Miu	羽越実有	いうちまいこ	Iuchi Maiko
 3616	https://lain.bgm.tv/pic/crt/l/11/88/3616_prsn_vu516.jpg	崎元仁	さきもとひとし	Sakimoto Hitoshi
 3618	https://lain.bgm.tv/pic/crt/l/4d/a9/3618_prsn_anidb.jpg	藤田淳平	ふじたじゅんぺい	Fujita Junpei
 3643	https://lain.bgm.tv/pic/crt/l/6e/db/3643_prsn_k7cPJ.jpg	横山克	横山マサル	よこやままさる	Yokoyama Masaru
@@ -799,6 +806,7 @@
 7837	https://lain.bgm.tv/pic/crt/l/ba/4c/7837_prsn_a4y42.jpg	小岩井ことり	小岩井小鸟	こいわい ことり	Koiwai Kotori
 7843	https://lain.bgm.tv/pic/crt/l/4a/58/7843_prsn_zzfNw.jpg	神代あみ	神代亚美	Ami Kamishiro	神代 あみ	かみしろ あみ	Kamishiro Ami
 7844	https://lain.bgm.tv/pic/crt/l/e3/04/7844_prsn_ehTWe.jpg	ティームエンタテインメント	TEAM Entertainment
+7851	https://lain.bgm.tv/pic/crt/l/a7/4a/7851_prsn_QAA8O.jpg	Imperial Circus Dead Decadence
 7852	https://lain.bgm.tv/pic/crt/l/dc/67/7852_prsn_iVm7h.jpg	SKETCH UP! Recordings
 7854	https://lain.bgm.tv/pic/crt/l/18/08/7854_prsn_BPwW0.jpg	SION	マツモト	シオン
 7856	https://lain.bgm.tv/pic/crt/l/76/80/7856_prsn_RYpHi.jpg	薬師るり	薬師 るり	やくし るり	Yakushi Ruri
@@ -893,6 +901,7 @@
 8353	https://lain.bgm.tv/pic/crt/l/a9/c5/8353_prsn_74O0M.jpg	Asriel	アズリエル
 8354	https://lain.bgm.tv/pic/crt/l/58/35/8354_prsn_G15A5.jpg	つなこ	Tsunako
 8383	https://lain.bgm.tv/pic/crt/l/de/73/8383_prsn_ZkJy0.jpg	Ayumi.	ayumi	織姫よぞら	Astilbe × arendsii	花井あゆみ	オリヒメヨゾラ
+8384	https://lain.bgm.tv/pic/crt/l/12/5d/8384_prsn_vi7ik.jpg	織田哲郎	TETSU	おだ てつろう	濱田哲郎
 8388	https://lain.bgm.tv/pic/crt/l/ab/de/8388_prsn_O2AJ7.jpg	長岡建蔵	ナガオカケンゾウ
 8389	https://lain.bgm.tv/pic/crt/l/c2/09/8389_prsn_3H63l.jpg	コツキミヤ	ALLEGORY WORKS	kotuki miya
 8390	https://lain.bgm.tv/pic/crt/l/9c/99/8390_prsn_QQHps.jpg	柳麻美	MAMI
@@ -1183,6 +1192,7 @@
 10395	https://lain.bgm.tv/pic/crt/l/93/75/10395_prsn_P27p2.jpg	井上秋緒	いのうえ あきお	Akio Inoue
 10396	https://lain.bgm.tv/img/info_only_m.png	渡辺未来	渡边未来	わたなべ みき	Miki Watabe
 10397	https://lain.bgm.tv/pic/crt/l/47/c2/10397_prsn_AAfvG.jpg	只野菜摘	只野 菜摘	ただの なつみ	Tadano Natsumi
+10398	https://lain.bgm.tv/pic/crt/l/2c/cf/10398_prsn_87qcQ.jpg	星野源	星野 源	ほしの げん	Hoshino Gen
 10399	https://lain.bgm.tv/pic/crt/l/d2/99/10399_prsn_FsIO3.jpg	亀田誠治	かめだ せいじ	Seiji Kameda
 10400	https://lain.bgm.tv/pic/crt/l/26/3e/10400_prsn_y2wtr.jpg	Kohei	瀬川浩平	Kohei by SIMONSAYZ
 10402	https://lain.bgm.tv/pic/crt/l/c9/40/10402_prsn_uBIBx.jpg	江幡育子	谷川むつみ	石井みいみ	えばた いくこ	Ikuko Ebata
@@ -1410,6 +1420,7 @@
 11116	https://lain.bgm.tv/pic/crt/l/7e/21/11116_prsn_gYlgq.jpg	Johnny.k	John Karkazis	ジョニー・K
 11118	https://lain.bgm.tv/pic/crt/l/fa/d3/11118_prsn_o0S5Z.jpg	SHAKING PINK	シェイキングピンク
 11124	https://lain.bgm.tv/pic/crt/l/16/b9/11124_prsn_y66GQ.jpg	中雑魚酒菜	中迫酒菜	なかざこ さかな	Sakana Nakasako
+11126	https://lain.bgm.tv/pic/crt/l/7e/12/11126_prsn_mKaL3.jpg	井上あずみ	宮崎みどり	井上杏美	いのうえ あずみ	Azumi Inoue
 11127	https://lain.bgm.tv/pic/crt/l/80/b4/11127_prsn_ChDHK.jpg	吉良知彦	きら ともひこ	Tomohiko Kira
 11133	https://lain.bgm.tv/pic/crt/l/d0/a1/11133_prsn_We00b.jpg	Marty Friedman	马蒂·弗里德曼	マーティ・フリードマン
 11143		吉木絵里子	よしき えりこ	Eriko Yoshiki
@@ -1502,6 +1513,7 @@
 12569	https://lain.bgm.tv/pic/crt/l/df/ce/12569_prsn_EVTkz.jpg	山村響	山村 響	やまむら ひびく	Yamamura Hibiku	水崎来夢＝白沢ゆりね＝愛風春榴＝卯月美沙緒＝剣吉明日香＝野々山紅＝小日向律＝村田サナ＝すもも
 12665	https://lain.bgm.tv/pic/crt/l/cd/75/12665_prsn_5zLuv.jpg	斎藤悠弥	齋藤悠弥	さいとう ゆうや	Saitou Yuuya
 12709	https://lain.bgm.tv/pic/crt/l/49/ef/12709_prsn_jIair.jpg	Lost Garden
+12713		Hibiki	ひびき
 12722	https://lain.bgm.tv/pic/crt/l/97/3f/12722_prsn_666JU.jpg	橘亮祐	猟	Tachibana	たちばな	Ryosuke Tachibana
 12726	https://lain.bgm.tv/pic/crt/l/c8/3d/12726_prsn_lJq6L.jpg	ATOLS	Atols	better	アトルス
 12727	https://lain.bgm.tv/pic/crt/l/ca/42/12727_prsn_ThNcl.jpg	立山秋航	Akiyuki Tateyama	立山 秋航	たてやま あきゆき	Tateyama Akiyuki
@@ -1579,6 +1591,7 @@
 13599	https://lain.bgm.tv/pic/crt/l/0d/a4/13599_prsn_JE4V3.jpg	上田晃司	うえだ こうじ	Koji Ueda
 13604		岸村正実	きしむら まさみ	Masami KISHIMURA
 13609	https://lain.bgm.tv/pic/crt/l/4e/0f/13609_prsn_q16f6.jpg	西直紀
+13610	https://lain.bgm.tv/pic/crt/l/75/cc/13610_prsn_JmZmG.jpg	依田和夫	よだ かずお
 13623	https://lain.bgm.tv/pic/crt/l/2e/c6/13623_prsn_XG67O.jpg	山内総一郎	やまうち そういちろう
 13626	https://lain.bgm.tv/pic/crt/l/8e/8d/13626_prsn_URK2h.jpg	Applice
 13640	https://lain.bgm.tv/pic/crt/l/8e/de/13640_prsn_g00MH.jpg	ラマーズP	ゴジマジP	lamazeP
@@ -1586,6 +1599,7 @@
 13645	https://lain.bgm.tv/pic/crt/l/23/0a/13645_prsn_Yw9Iw.jpg	黒光雄輝	Zpinkpong	ZPP	ZETA	PRE ZETA	KUROMITSU	PINK PONG	くろみつ ゆうき
 13658	https://lain.bgm.tv/pic/crt/l/89/3a/13658_prsn_94fn6.jpg	石橋渡	みらうぃ	みらゐ	mirawi	いしばし わたる	Wataru Ishibashi
 13665	https://lain.bgm.tv/pic/crt/l/51/b1/13665_prsn_qQ2CP.jpg	籾山紗希	莱夢	もみやま さき	Saki Momiyama	磨米口
+13680	https://lain.bgm.tv/pic/crt/l/d6/70/13680_prsn_oxa8X.jpg	太田貴子	おおた たかこ	Oota Takako
 13694	https://lain.bgm.tv/pic/crt/l/55/72/13694_prsn_KngbI.jpg	Fear, and loathing in Las Vegas	フィアー・アンド・ロージング・イン・ラスベガス
 13700	https://lain.bgm.tv/pic/crt/l/07/42/13700_prsn_Bj6jP.jpg	Heart's Cry
 13724	https://lain.bgm.tv/pic/crt/l/b3/9e/13724_prsn_sVJsz.jpg	阿部靖広
@@ -1596,6 +1610,7 @@
 13749	https://lain.bgm.tv/pic/crt/l/8a/b9/13749_prsn_oni8U.jpg	水木一郎	早川俊夫	はやかわ としお	松本茂之	山本一郎	早川としお	たつきよういちろう	ミズキング	Ichirou Mizuki	みずき いちろう	Ichiro Mizuki	アニキ（ANIKI）
 13750	https://lain.bgm.tv/pic/crt/l/d8/b3/13750_prsn_VeFGI.jpg	佐藤清喜
 13752	https://lain.bgm.tv/pic/crt/l/9b/1c/13752_prsn_ssz7y.jpg	中村博	is	中村博	なかむら ひろし	Nakamura Hiroshi	is(hiroshi)
+13763	https://lain.bgm.tv/pic/crt/l/23/62/13763_prsn_Zq0ig.jpg	小幡洋子	おばた ようこ	Obata Youko
 13769	https://lain.bgm.tv/pic/crt/l/96/26/13769_prsn_k19Ll.jpg	串田アキラ	串田あきら	串田晃	くしだ アキラ
 13771	https://lain.bgm.tv/pic/crt/l/c2/30/13771_prsn_sx88S.jpg	霧島はるな	霧島はるな＝水無月じゅん	霧島 はるな	きりしま はるな	Kirishima Haruna
 13778	https://lain.bgm.tv/pic/crt/l/46/54/13778_prsn_2V2ko.jpg	オオヤギヒロオ	大八木弘雄	Hiroo Ooyagi
@@ -1873,6 +1888,7 @@
 16088	https://lain.bgm.tv/pic/crt/l/3e/3c/16088_prsn_vuV0G.jpg	佐藤あずさ	佐藤 あずさ	さとう あずさ	Satō Azusa	咲智ゆん
 16093	https://lain.bgm.tv/pic/crt/l/f3/4a/16093_prsn_4GT7L.jpg	の子	大島亮介
 16099	https://lain.bgm.tv/pic/crt/l/5f/35/16099_prsn_h85k1.jpg	有木竜郎	ありき たつろう
+16100		古田喜昭	FULTA	ふるた よしあき
 16107	https://lain.bgm.tv/pic/crt/l/7e/2b/16107_prsn_JkJpp.jpg	eba	堀良平	Ryohei Hori
 16113	https://lain.bgm.tv/pic/crt/l/73/9e/16113_prsn_ZcTZQ.jpg	石田順三	いしだ じゅんぞう
 16130	https://lain.bgm.tv/pic/crt/l/5e/e6/16130_prsn_zdb41.jpg	Adust Rain
@@ -2008,6 +2024,7 @@
 19215	https://lain.bgm.tv/pic/crt/l/0a/29/19215_prsn_sFsyz.jpg	かみやまねき
 19217	https://lain.bgm.tv/pic/crt/l/7f/70/19217_prsn_L6sx3.jpg	兼松衆	かねまつ しゅう	Shu Kanematsu
 19220	https://lain.bgm.tv/pic/crt/l/2b/33/19220_prsn_lgobj.jpg	山本拓夫	やまもと たくお	YAMAMOTO TAKUO
+19229	https://lain.bgm.tv/pic/crt/l/d9/d8/19229_prsn_ofOXn.jpg	佐藤健	さとう けん
 19250	https://lain.bgm.tv/pic/crt/l/f0/43/19250_prsn_9u2v2.jpg	羽鳥ぴよこ	鳥羽大輔	ぴよぷろじぇくと
 19270	https://lain.bgm.tv/pic/crt/l/34/22/19270_prsn_jWwTa.jpg	小田裕一郎	おだ ゆういちろう	Yuichiro Oda
 19271		藤公之介	くどう きみお	工藤喜美夫	ふじ こうのすけ	Kounosuke Fuji
@@ -2059,6 +2076,7 @@
 20448	https://lain.bgm.tv/pic/crt/l/4f/9f/20448_prsn_AiU2N.jpg	Tama	カサ男	しらたま まさみ	タマ	Tamaちゃん
 20450	https://lain.bgm.tv/pic/crt/l/9e/bd/20450_prsn_xb3NJ.jpg	HYDE	hyde	寶井秀人	ハイド
 20468		千家和也	村越英文	せんけ かずや
+20507	https://lain.bgm.tv/pic/crt/l/c4/59/20507_prsn_jdFDJ.jpg	MISIA	伊藤美咲（いとう みさき）	ミーシャ
 20642	https://lain.bgm.tv/pic/crt/l/4c/6e/20642_prsn_8W8ze.jpg	no_my	永井厚	Atsushi Nagai
 20693	https://lain.bgm.tv/pic/crt/l/8a/a2/20693_prsn_eXC4M.jpg	上白石萌音	Mone Kamishiraishi	上白石 萌音	かみしらいし もね	Kamishiraishi Mone
 20696	https://lain.bgm.tv/pic/crt/l/f5/19/20696_prsn_53t6M.jpg	さいとうよしえ	齋藤圭恵	さいとう よしえ	Saitō Yoshie	さいとうよしえ ＝ 月野きいろ = 藤野むらさき=嶋田ツユリ
@@ -2173,6 +2191,7 @@
 25156	https://lain.bgm.tv/pic/crt/l/31/21/25156_prsn_RHzoh.jpg	Chouchou	シュシュ
 25191	https://lain.bgm.tv/pic/crt/l/d7/8a/25191_prsn_FpS4H.jpg	内田秀	内田 秀	うちだ しゅう	Uchida Shū
 25195		ha-j	Ha-j	佐藤肇	ハージェイ
+25196		羽場仁志	はば ひとし
 25214	https://lain.bgm.tv/pic/crt/l/79/65/25214_prsn_sHc5u.jpg	naNami	ななみ
 25229	https://lain.bgm.tv/pic/crt/l/41/a0/25229_prsn_xORwa.jpg	三浦大知	三浦大地	Daichi Miura	みうら だいち	DAICHI
 25238	https://lain.bgm.tv/pic/crt/l/fb/77/25238_prsn_6xAVU.jpg	TAKAROT
@@ -2187,6 +2206,7 @@
 25427	https://lain.bgm.tv/pic/crt/l/2b/b1/25427_prsn_L9bn6.jpg	黒瀬圭亮	くろせけいすけ
 25428	https://lain.bgm.tv/pic/crt/l/fd/73/25428_prsn_x5Kl0.jpg	相羽あいな	相羽亚衣奈	相羽 あいな	あいば あいな	Aiba Aina	あいあい	播磨佑紀
 25436	https://lain.bgm.tv/pic/crt/l/50/6b/25436_prsn_OY68C.jpg	大野柚布子	大野 柚布子	おおの ゆうこ	Ōno Yūko	ゆうぽん
+25452	https://lain.bgm.tv/pic/crt/l/51/6b/25452_prsn_7xZmF.jpg	島野聡	Sinkiroh	しまの さとし
 25482	https://lain.bgm.tv/pic/crt/l/87/32/25482_prsn_S3ylJ.jpg	おりょう	oryou
 25483	https://lain.bgm.tv/pic/crt/l/cb/97/25483_prsn_NtIW0.jpg	亜咲花	あさか	Asaka
 25485	https://lain.bgm.tv/pic/crt/l/47/fa/25485_prsn_8J18i.jpg	伊福部崇	伊福部 崇	いふくべ たかし	Ifukube Takashi
@@ -2194,6 +2214,7 @@
 25529	https://lain.bgm.tv/pic/crt/l/b6/8d/25529_prsn_WtsAI.jpg	澁谷梓希	澁谷梓希	しぶや  あずき	ずっちゃん、ず
 25596	https://lain.bgm.tv/pic/crt/l/92/80/25596_prsn_pHq4Z.jpg	みたかりん	RIN MITAKA	向日葵そよ	みたか りん	Mitaka Rin	のはらゆうか	高梨はなみ
 25605	https://lain.bgm.tv/img/info_only_m.png	黒沢ダイスケ	96	kuro	Daisuke Kurosawa	黒沢大佑	くろさわ ダイスケ	Kurosawa Daisuke
+25612		フィーリング・フリー	Feeling Free
 25647	https://lain.bgm.tv/pic/crt/l/9e/bc/25647_prsn_KG6J0.jpg	mocha
 25671	https://lain.bgm.tv/pic/crt/l/ba/22/25671_prsn_pn55N.jpg	wavforme
 25680	https://lain.bgm.tv/pic/crt/l/3b/76/25680_prsn_1jBib.jpg	和泉蛍
@@ -2207,6 +2228,7 @@
 25781	https://lain.bgm.tv/pic/crt/l/e8/2a/25781_prsn_poEEp.jpg	柚木梨沙	Yuzurisa	Risa Yuzuki
 25790	https://lain.bgm.tv/pic/crt/l/cd/e7/25790_prsn_hEFwq.jpg	貝田由里子	YURIKO KAIDA	KAiiDA	かいだ ゆりこ
 25794	https://lain.bgm.tv/pic/crt/l/d3/3b/25794_prsn_ZLgDe.jpg	井上真希	Puchi	MAKI INOUE
+25812		市川昭介	いちかわ しょうすけ
 25833	https://lain.bgm.tv/pic/crt/l/ef/a7/25833_prsn_CCCus.jpg	くろっく
 25843	https://lain.bgm.tv/pic/crt/l/c6/97/25843_prsn_nX6AV.jpg	Drop
 25865	https://lain.bgm.tv/pic/crt/l/95/e4/25865_prsn_DJSoN.jpg	Yunomi	ゆのみ
@@ -2615,6 +2637,7 @@
 34333	https://lain.bgm.tv/pic/crt/l/67/b5/34333_prsn_dMMmS.jpg	Beverly	ビバリー
 34334	https://lain.bgm.tv/pic/crt/l/07/68/34334_prsn_F5y85.jpg	FANTASTICS from EXILE TRIBE	ファンタスティックス	ファンタ、芬达
 34340	https://lain.bgm.tv/pic/crt/l/3f/e1/34340_prsn_NnwG7.jpg	福井健一郎
+34367		ヤング・フレッシュ	Young Fresh
 34371		Valve Studio Orchestra
 34373	https://lain.bgm.tv/pic/crt/l/0a/02/34373_prsn_59qrB.jpg	舞原マツゲ	末下まつげ	マツゲアンテナ	舞原マツゲ	まいはら まつげ
 34380	https://lain.bgm.tv/pic/crt/l/10/cf/34380_prsn_3f7WW.jpg	春茶	はるちゃ
@@ -3185,6 +3208,7 @@
 44847	https://lain.bgm.tv/pic/crt/l/1f/7c/44847_prsn_n0Zo6.jpg	hako 生活
 44867	https://lain.bgm.tv/pic/crt/l/4f/1e/44867_prsn_BA6ZV.jpg	キタニタツヤ	こんにちは谷田さん	木谷竜也	Tatsuya Kitani
 44879	https://lain.bgm.tv/pic/crt/l/5a/87/44879_prsn_5thHI.jpg	絹谷ゆたか	Yutaka Kinutani
+44887	https://lain.bgm.tv/pic/crt/l/26/50/44887_prsn_Zy557.jpg	亜蘭知子	山口智子	あらん ともこ	Tomoko Aran
 44889	https://lain.bgm.tv/pic/crt/l/1b/bb/44889_prsn_vIVcR.jpg	Numa	沼能友樹	ぬまのう ともき	Tomoki Numano
 44972	https://lain.bgm.tv/pic/crt/l/1f/98/44972_prsn_Pmya2.jpg	こるせ	磐篠つみれ
 44973	https://lain.bgm.tv/pic/crt/l/2e/c6/44973_prsn_2D3uT.jpg	すりぃ	Three	すりぃ	三哥
@@ -3579,6 +3603,7 @@
 55595	https://lain.bgm.tv/pic/crt/l/9e/a1/55595_prsn_5FFSs.jpg	Kan Sano	Bennetrhodes	カン・サノ
 55606	https://lain.bgm.tv/pic/crt/l/75/00/55606_prsn_0QHS7.jpg	神乃木製作所	Kaminogi Works	かみのぎ せいさくしょ
 55611	https://lain.bgm.tv/pic/crt/l/2f/1d/55611_prsn_nEay7.jpg	森田友梨
+55664	https://lain.bgm.tv/pic/crt/l/f4/54/55664_prsn_526s2.jpg	ダ・カーポ	DA CAPO
 55744	https://lain.bgm.tv/pic/crt/l/06/15/55744_prsn_YZsyd.jpg	Omoi
 55759	https://lain.bgm.tv/pic/crt/l/68/c6/55759_prsn_11Udl.jpg	香椎モイミ	そっか
 55762	https://lain.bgm.tv/pic/crt/l/f3/98/55762_prsn_zfLfw.jpg	椎乃味醂	konaka	しいくる（与しいくる一起）	Shino Mirin	椎乃 
@@ -3709,6 +3734,7 @@
 59104	https://lain.bgm.tv/pic/crt/l/8c/e8/59104_prsn_YyRcc.jpg	原口沙輔	SASUKE	Sasuke Haraguchi
 59108	https://lain.bgm.tv/pic/crt/l/30/9e/59108_prsn_Ppuzg.jpg	朝木ゆう	あさぎ ゆう	asagiyuu
 59109	https://lain.bgm.tv/pic/crt/l/34/43/59109_prsn_m57d3.jpg	Miglen	yokotentee	よーこてんてー	yoooooko_voice
+59135		和泉常寛	和泉常康	和泉常威
 59187	https://lain.bgm.tv/pic/crt/l/fc/98/59187_prsn_lkbJR.jpg	犬飼小町	いぬかいこまち	inukai komachi
 59216		憐歌	憐歌
 59229		Gu-dara	Benitoite
@@ -4372,6 +4398,7 @@
 67417	https://lain.bgm.tv/pic/crt/l/46/31/67417_prsn_BSD88.jpg	犬吠埼いつき
 67419	https://lain.bgm.tv/pic/crt/l/7b/37/67419_prsn_P8Ykp.jpg	竹馬あお	竹馬春風
 67436	https://lain.bgm.tv/pic/crt/l/80/83/67436_prsn_6766s.jpg	chooco	ちょこし
+67440	https://lain.bgm.tv/pic/crt/l/b5/3a/67440_prsn_V7iji.jpg	苺山
 67481	https://lain.bgm.tv/pic/crt/l/36/a1/67481_prsn_9h9ay.jpg	たかみつようこ	高満洋子
 67482	https://lain.bgm.tv/pic/crt/l/cc/4f/67482_prsn_c0QN7.jpg	弓達公雄	弓達ストロング公雄
 67483	https://lain.bgm.tv/pic/crt/l/81/9b/67483_prsn_gMFCu.jpg	vα-liv	PROJECT IM@S vα-liv	ヴイアラ
@@ -5519,6 +5546,7 @@
 71067	https://lain.bgm.tv/pic/crt/l/02/95/71067_prsn_94vrR.jpg	Diggy-MO’	ディギーモー
 71096	https://lain.bgm.tv/pic/crt/l/ce/9e/71096_prsn_IMq5U.jpg	海茶	Umicha	ocean_tea_cafe
 71113	https://lain.bgm.tv/pic/crt/l/3a/8a/71113_prsn_XqJXj.jpg	Awairo	アワイロ
+71129	https://lain.bgm.tv/pic/crt/l/a9/7b/71129_prsn_3cZse.jpg	渡太一	渡太一(ゼロワン)	わたりたいち
 71134	https://lain.bgm.tv/pic/crt/l/eb/7f/71134_prsn_QcZaV.jpg	sabio/高村風太
 71136	https://lain.bgm.tv/pic/crt/l/ba/3a/71136_prsn_7p007.jpg	三木雄輝
 71137	https://lain.bgm.tv/pic/crt/l/ed/67/71137_prsn_j2Xwp.jpg	榊原またぎ	マギ
@@ -6109,6 +6137,7 @@
 73501	https://lain.bgm.tv/pic/crt/l/62/ee/73501_prsn_8E62y.jpg	Kolaa	可乐子
 73502	https://lain.bgm.tv/pic/crt/l/4f/fa/73502_prsn_4G4js.jpg	IOR
 73503	https://lain.bgm.tv/pic/crt/l/fe/3c/73503_prsn_akxRR.jpg	負二価-	フーリエモロー
+73506	https://lain.bgm.tv/pic/crt/l/e9/12/73506_prsn_uVR9w.jpg	DJ Chika	DJ Chika a.k.a. Inherit	Inherit
 73508	https://lain.bgm.tv/pic/crt/l/dd/16/73508_prsn_3wq32.jpg	吐息	Toiki
 73509	https://lain.bgm.tv/pic/crt/l/99/5a/73509_prsn_TO6q6.jpg	rinri
 73510	https://lain.bgm.tv/pic/crt/l/81/a9/73510_prsn_yCfH6.jpg	青栗鼠	全てあなたの為です。
@@ -7405,3 +7434,15 @@
 84375	https://lain.bgm.tv/pic/crt/l/37/7a/84375_prsn_7Ersw.jpg	Arukotonaikoto
 84376	https://lain.bgm.tv/pic/crt/l/97/0f/84376_prsn_lEeFl.jpg	大城慎也
 84377	https://lain.bgm.tv/pic/crt/l/e6/53/84377_prsn_9BRH8.jpg	ひなた夏
+84398	https://lain.bgm.tv/pic/crt/l/ae/c0/84398_prsn_5lKnI.jpg	Loveit Core	ESHIKARA
+84400	https://lain.bgm.tv/pic/crt/l/70/72/84400_prsn_M9Zq8.jpg	百巣もも
+84402	https://lain.bgm.tv/pic/crt/l/12/46/84402_prsn_0tAdr.jpg	Othermoon
+84403	https://lain.bgm.tv/pic/crt/l/05/0c/84403_prsn_ITjDe.jpg	FALL	Akihito Aiba
+84404	https://lain.bgm.tv/pic/crt/l/b1/71/84404_prsn_IyofB.jpg	ウ山あまね	Amane Uyama
+84405	https://lain.bgm.tv/pic/crt/l/9c/c6/84405_prsn_v3OrO.jpg	Kabanagu
+84406	https://lain.bgm.tv/pic/crt/l/d2/56/84406_prsn_KWk8M.jpg	PAS TASTA
+84409	https://lain.bgm.tv/pic/crt/l/38/0d/84409_prsn_JIiiN.jpg	もっふーP	moff
+84426	https://lain.bgm.tv/pic/crt/l/a3/1d/84426_prsn_Tn333.jpg	Tranceformer Yuno
+84436	https://lain.bgm.tv/pic/crt/l/6f/ce/84436_prsn_7l871.jpg	hibari	Keisuke Hashimoto	Emazik
+84437	https://lain.bgm.tv/pic/crt/l/10/03/84437_prsn_FpygG.jpg	Keisuke Hara	Kornelia
+84439		清水由紀	Yuki Shimizu	Shimizu Yuki	しみず ゆき
