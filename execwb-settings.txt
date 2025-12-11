@@ -7592,6 +7592,7 @@
 84539	https://lain.bgm.tv/pic/crt/l/f1/eb/84539_prsn_hZjNZ.jpg	木京
 84545	https://lain.bgm.tv/pic/crt/l/98/17/84545_prsn_Nddv4.jpg	京英一	Eiichi Kyo
 84546	https://lain.bgm.tv/pic/crt/l/ca/af/84546_prsn_LrirM.jpg	ふじそば	藤宮奏
+84548	https://lain.bgm.tv/pic/crt/l/c8/4d/84548_prsn_sf6bB.jpg	Fuyuki
 84550	https://lain.bgm.tv/pic/crt/l/87/f0/84550_prsn_BpdPl.jpg	佐藤元気	Genki Sato	さとう げんき	Sato Genki
 84551	https://lain.bgm.tv/pic/crt/l/7a/f2/84551_prsn_SSjjZ.jpg	lull	らる
 84552	https://lain.bgm.tv/pic/crt/l/bb/04/84552_prsn_xlnc2.jpg	由上一郎	Ichiro Yugami	Yugami Ichiro	ゆがみ いちろう
