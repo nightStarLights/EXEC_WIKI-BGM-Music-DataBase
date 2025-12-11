@@ -2373,7 +2373,6 @@
 28722	https://lain.bgm.tv/pic/crt/l/7f/2b/28722_prsn_8RDUE.jpg	久下真音	滝上裕司	U-ZY	Kushita Mine	くした まいん
 28743	https://lain.bgm.tv/pic/crt/l/64/02/28743_prsn_P94Mr.jpg	先崎真琴	Senzaki Makoto
 28800	https://lain.bgm.tv/pic/crt/l/9d/03/28800_prsn_faB6G.jpg	iXima	えこいくしま	えこいくしま
-28863	https://lain.bgm.tv/pic/crt/l/12/15/28863_prsn_5bFu3.jpg	芥見下々	芥見 下々	あくたみ げげ	Akutami Gege
 28935	https://lain.bgm.tv/pic/crt/l/6a/8b/28935_prsn_3jV0J.jpg	暁Records
 29046	https://lain.bgm.tv/pic/crt/l/07/18/29046_prsn_hf2fJ.jpg	Chris Mosdell	Christopher Mosdell	クリス・モズデル
 29091	https://lain.bgm.tv/pic/crt/l/91/9e/29091_prsn_Y9LRl.jpg	くさかべゆま
