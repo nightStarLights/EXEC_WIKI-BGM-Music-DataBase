@@ -1,4 +1,4 @@
-{"bgmUID":"","newInfoBox":"{{Infobox Album\n|中文名= \n|别名={\n[]\n}\n|版本特性= \n|发售日期= \n|价格={\n[]\n[Shop|]\n[Event|]\n[Web|]\n}\n|播放时长={\n[]\n[DISC 1|]\n[DISC 2|]\n}\n|设计={\n[]\n}\n|碟片数量= \n|品番={\n[]\n[]\n}\n|官方网站= \n|链接={\n[MV|]\n[试听|]\n[YouTube|]\n[Booth.pm|]\n[Dizzylab|]\n[Bandcamp|]\n[Melonbooks|]\n[Apple Music|]\n}\n|版本:={\n[版本特性|]\n[价格|]\n[播放时长|]\n[碟片数量|]\n[品番|]\n}\n}}","shouldCleanCircleParentheses":false,"allowAllSpaceInCreatorName":false,"shouldAutofillArrangment":false,"defaultOpenBGMNewAfterPack":false,"enableFeatVocal":false}
+{"bgmUID":"sakarin","newInfoBox":"{{Infobox Album\n|中文名= \n|别名={\n[]\n}\n|版本特性= \n|发售日期= \n|价格={\n[]\n[Shop|]\n[Event|]\n[Web|]\n}\n|播放时长={\n[]\n[DISC 1|]\n[DISC 2|]\n}\n|设计={\n[]\n}\n|碟片数量= \n|品番={\n[]\n[]\n}\n|官方网站= \n|链接={\n[MV|]\n[试听|]\n[YouTube|]\n[Booth.pm|]\n[Linkcore/Linkfire/Big UP!|]\n[Dizzylab|]\n[Bandcamp|]\n[Melonbooks|]\n[Apple Music|]\n}\n|版本:={\n[版本特性|]\n[价格|]\n[播放时长|]\n[碟片数量|]\n[品番|]\n}\n}}","shouldCleanCircleParentheses":false,"allowAllSpaceInCreatorName":false,"shouldAutofillArrangment":false,"defaultOpenBGMNewAfterPack":false,"enableFeatVocal":false}
 1	https://lain.bgm.tv/pic/crt/l/a6/e8/1_prsn_k7wpt.jpg	水樹奈々	近藤奈々 (こんどう なな)	みずき なな	Mizuki Nana	奈々ちゃん、奈々さん、奈々様、お奈々、ヘッド
 3	https://lain.bgm.tv/pic/crt/l/ec/cb/3_prsn_anidb.jpg	和田薫	わだ かおる	Wada Kaoru
 28	https://lain.bgm.tv/pic/crt/l/41/c7/28_prsn_0GyWJ.jpg	桜井弘明	樱井弘明	さくらい ひろあき	Sakurai Hiroaki
@@ -662,7 +662,7 @@
 6990	https://lain.bgm.tv/pic/crt/l/09/e1/6990_prsn_k7Ysk.jpg	Sumijun	住友順	Halozy	すみじゅん	Troublemakers	Jun Sumitomo
 6994	https://lain.bgm.tv/pic/crt/l/fc/7b/6994_prsn_5GZhZ.jpg	MUZIK SERVANT	小川慶人	Concerto Beats (MUZIK SERVANT &amp; ねっぴ）	DJ 92	J.P.Compressor	Yoshito Ogawa
 6995	https://lain.bgm.tv/pic/crt/l/7e/e6/6995_prsn_HizBL.jpg	Φ串Φ	串伊トモミ	くし
-6996	https://lain.bgm.tv/pic/crt/l/72/0b/6996_prsn_XNln0.jpg	佐咲紗花	佐咲 紗花	ささき さやか	sasaki sayaka	佐々木紗香	さや姉
+6996	https://lain.bgm.tv/pic/crt/l/72/0b/6996_prsn_XNln0.jpg	佐咲紗花	佐咲纱花	Sayaka Sasaki	佐咲 紗花	ささき さやか	Sasaki Sayaka	佐々木紗香	さや姉
 6997	https://lain.bgm.tv/pic/crt/l/0e/82/6997_prsn_XFwWw.jpg	℃iel	青砥雫
 6998	https://lain.bgm.tv/pic/crt/l/27/53/6998_prsn_SGti9.jpg	ChouCho	ちょうちょ
 6999	https://lain.bgm.tv/pic/crt/l/e2/d7/6999_prsn_izdQt.jpg	しほり	瀬名	せな	Shihori	中根しほり	Nakane Shihori	しほり
