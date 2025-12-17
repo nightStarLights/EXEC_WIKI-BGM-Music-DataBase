@@ -7690,6 +7690,7 @@
 84930	https://lain.bgm.tv/pic/crt/l/7c/8e/84930_prsn_xRxGg.jpg	西山昌一郎	Shoichiro Nishiyama	にしやま しょういちろう	Nishiyama Shoichiro
 84931		秋山奈津	Natsu Akiyama	あきやま なつ	Akiyama Natsu
 84932	https://lain.bgm.tv/pic/crt/l/36/0b/84932_prsn_XIjLj.jpg	小西真理	Mari Konishi	こにし まり	Konishi Mari
+84933	https://lain.bgm.tv/pic/crt/l/fa/28/84933_prsn_WV4d0.jpg	海野水玉	Mizutama umino
 84934	https://lain.bgm.tv/pic/crt/l/13/59/84934_prsn_NZU2u.jpg	chacol	chacha	茶々
 84935		ときめき作詞実行委員会	Tokimeki Verse Committee	ときめき作詩実行委員会	Tokimeki Lyrics Committee
 84936	https://lain.bgm.tv/pic/crt/l/9c/27/84936_prsn_qj616.jpg	樋田竜太	Ryuta Hida	ひだ りゅうた	Hida Ryuta
