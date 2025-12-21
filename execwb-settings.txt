@@ -805,7 +805,7 @@
 7539	https://lain.bgm.tv/pic/crt/l/75/35/7539_prsn_762Qm.jpg	中西亮輔	studio-R	r-midwest	あある
 7551	https://lain.bgm.tv/pic/crt/l/89/c8/7551_prsn_Sx69o.jpg	丘野塔也	天雲玄樹	天云玄树	丘野 塔也	おかの とうや	Okano Touya
 7556	https://lain.bgm.tv/pic/crt/l/00/c9/7556_prsn_o1o1F.jpg	山口立花子	山口 立花子	やまぐち りかこ	Yamaguchi Rikako
-7561	https://lain.bgm.tv/pic/crt/l/68/78/7561_prsn_52el0.jpg	RoughSketch	DJ Laugh	uno(IOSYS)	八神蓮
+7561	https://lain.bgm.tv/pic/crt/l/68/78/7561_prsn_52el0.jpg	RoughSketch	DJ Laugh	uno	uno	CANVAS	s.uno	DJ RoughSketch	Doggybagg	ラフ助	八神蓮
 7562	https://lain.bgm.tv/pic/crt/l/4b/17/7562_prsn_5K7e5.jpg	ARM	木村洋平	DJ ARM	アーム
 7575	https://lain.bgm.tv/pic/crt/l/7a/a7/7575_prsn_8TJlL.jpg	種﨑敦美	种崎敦美	種﨑 敦美	たねざき あつみ	Tanezaki Atsumi	たねちゃん・あっちゃん（阿酱，取自Atsumi的A）・シードさん・たねパイ	华哥、华爷	あいこ	桐谷華	黒咲まつり	とまとあいこ	沢澤砂羽	梅本詩緒
 7592	https://lain.bgm.tv/pic/crt/l/c2/f8/7592_prsn_Ply7V.jpg	じん	Jin	自然の敵P	ShizennotekiP
@@ -2919,6 +2919,7 @@
 35869	https://lain.bgm.tv/pic/crt/l/cd/d1/35869_prsn_hqMMx.jpg	SHOW	大澤奨	ショウ	Shou Osawa
 35883	https://lain.bgm.tv/pic/crt/l/5f/ff/35883_prsn_Iav33.jpg	半田翼	半田 翼	はんだ つばさ	Handa Tsubasa
 35903	https://lain.bgm.tv/pic/crt/l/be/c6/35903_prsn_d855W.jpg	nmk	佐原诚	DTXFiles.nmk	佐原誠
+35911	https://lain.bgm.tv/pic/crt/l/5e/1e/35911_prsn_nTtTu.jpg	元吉有希子	もとよし ゆきこ	Yukiko Motoyoshi
 35912	https://lain.bgm.tv/pic/crt/l/f4/05/35912_prsn_Ba2b8.jpg	山根綺	山根绮	山根 綺	やまね あや	Yamane Aya	はやや
 35932	https://lain.bgm.tv/pic/crt/l/60/a1/35932_prsn_AKGkw.jpg	Capchii	カプチー
 35940	https://lain.bgm.tv/pic/crt/l/7b/66/35940_prsn_Sl6m4.jpg	ALI	Alien Liberty International
@@ -7812,3 +7813,15 @@
 85098	https://lain.bgm.tv/pic/crt/l/5c/7d/85098_prsn_npl6b.jpg	rN
 85126	https://lain.bgm.tv/pic/crt/l/4a/75/85126_prsn_flCl0.jpg	寿なし子
 85186	https://lain.bgm.tv/pic/crt/l/df/9a/85186_prsn_z18QT.jpg	KTA
+85201	https://lain.bgm.tv/pic/crt/l/0e/fa/85201_prsn_H6vf8.jpg	SOZEN OTSUBO
+85202	https://lain.bgm.tv/pic/crt/l/ce/a4/85202_prsn_VhiK0.jpg	Philtz
+85203	https://lain.bgm.tv/pic/crt/l/c4/e6/85203_prsn_xA6KX.jpg	オオウチアラタ
+85205	https://lain.bgm.tv/pic/crt/l/7a/b7/85205_prsn_4X469.jpg	Normal1zer	Supa7onyz
+85206	https://lain.bgm.tv/pic/crt/l/36/76/85206_prsn_xyAdP.jpg	DJ Tranceair
+85207	https://lain.bgm.tv/pic/crt/l/58/db/85207_prsn_z2fPZ.jpg	Sociable State	善谐国度
+85208	https://lain.bgm.tv/pic/crt/l/16/bc/85208_prsn_d7WHQ.jpg	琴宮歩夢	Ayumu Kotomiya	Kotomiya Ayumu
+85209	https://lain.bgm.tv/pic/crt/l/15/a6/85209_prsn_D5fdz.jpg	森正樹	dead-IGARASHI	MASAKI	Masaki Mori	もり まさき	Mori Masaki
+85210	https://lain.bgm.tv/pic/crt/l/e1/f7/85210_prsn_xnY92.jpg	戸田高太郎	Kotaro Toda	とだ こうたろう	Toda Kotaro
+85211	https://lain.bgm.tv/pic/crt/l/0f/ef/85211_prsn_niq4I.jpg	john=hive
+85212	https://lain.bgm.tv/pic/crt/l/5a/44/85212_prsn_Mt6p7.jpg	尾上秀樹	Hideki Onoue	おのうえ ひでき	Onoue Hideki
+85213	https://lain.bgm.tv/pic/crt/l/3d/51/85213_prsn_huwwo.jpg	小倉久佳	音羽一郎	Sensei Ogura	おぐらさん	Ogura Hisayoshi Soundscape Production Facility	小倉久佳音画制作所	小倉"OGR"久佳	H. Ogura	O·G·R	O.G.R.	O.G.R	OGR
