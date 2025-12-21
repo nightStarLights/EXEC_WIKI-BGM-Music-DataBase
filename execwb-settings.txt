@@ -805,7 +805,7 @@
 7539	https://lain.bgm.tv/pic/crt/l/75/35/7539_prsn_762Qm.jpg	中西亮輔	studio-R	r-midwest	あある
 7551	https://lain.bgm.tv/pic/crt/l/89/c8/7551_prsn_Sx69o.jpg	丘野塔也	天雲玄樹	天云玄树	丘野 塔也	おかの とうや	Okano Touya
 7556	https://lain.bgm.tv/pic/crt/l/00/c9/7556_prsn_o1o1F.jpg	山口立花子	山口 立花子	やまぐち りかこ	Yamaguchi Rikako
-7561	https://lain.bgm.tv/pic/crt/l/68/78/7561_prsn_52el0.jpg	RoughSketch	DJ Laugh	uno	uno	CANVAS	s.uno	DJ RoughSketch	Doggybagg	ラフ助	八神蓮
+7561	https://lain.bgm.tv/pic/crt/l/68/78/7561_prsn_52el0.jpg	RoughSketch	DJ Laugh	uno	uno(IOSYS)	CANVAS	s.uno	DJ RoughSketch	Doggybagg	ラフ助	八神蓮
 7562	https://lain.bgm.tv/pic/crt/l/4b/17/7562_prsn_5K7e5.jpg	ARM	木村洋平	DJ ARM	アーム
 7575	https://lain.bgm.tv/pic/crt/l/7a/a7/7575_prsn_8TJlL.jpg	種﨑敦美	种崎敦美	種﨑 敦美	たねざき あつみ	Tanezaki Atsumi	たねちゃん・あっちゃん（阿酱，取自Atsumi的A）・シードさん・たねパイ	华哥、华爷	あいこ	桐谷華	黒咲まつり	とまとあいこ	沢澤砂羽	梅本詩緒
 7592	https://lain.bgm.tv/pic/crt/l/c2/f8/7592_prsn_Ply7V.jpg	じん	Jin	自然の敵P	ShizennotekiP
