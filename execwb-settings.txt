@@ -1,4 +1,4 @@
-{"bgmUID":"","newInfoBox":"{{Infobox Album\n|中文名= \n|别名={\n[]\n}\n|版本特性= \n|发售日期= \n|价格={\n[]\n[Shop|]\n[Event|]\n[Web|]\n}\n|播放时长={\n[]\n[DISC 1|]\n[DISC 2|]\n}\n|设计={\n[]\n}\n|碟片数量= \n|品番={\n[]\n[]\n}\n|官方网站= \n|链接={\n[MV|]\n[试听|]\n[YouTube|]\n[Booth.pm|]\n[Linkcore/Linkfire/Big UP!/Tunecore|]\n[Dizzylab|]\n[Bandcamp|]\n[Melonbooks|]\n[Apple Music|]\n}\n|版本:={\n[规格|]\n[价格|]\n[播放时长|]\n[碟片数量|]\n[品番|]\n}\n}}","shouldCleanCircleParentheses":false,"allowAllSpaceInCreatorName":false,"shouldAutofillArrangment":true,"defaultOpenBGMNewAfterPack":false,"enableFeatVocal":false}
+{"bgmUID":"","newInfoBox":"{{Infobox Album\n|中文名= \n|别名={\n[]\n}\n|版本特性= \n|发售日期= \n|价格={\n[]\n[Shop|]\n[Event|]\n[Web|]\n}\n|播放时长={\n[]\n[DISC 1|]\n[DISC 2|]\n}\n|设计={\n[]\n}\n|碟片数量= \n|品番={\n[]\n[]\n}\n|官方网站= \n|链接={\n[MV|]\n[试听|]\n[YouTube|]\n[BOOTH|]\n[Linkcore/Linkfire/Big UP!/Tunecore|]\n[Dizzylab|]\n[Bandcamp|]\n[Melonbooks|]\n[Apple Music|]\n}\n|版本:={\n[规格|]\n[价格|]\n[播放时长|]\n[碟片数量|]\n[品番|]\n}\n}}","shouldCleanCircleParentheses":false,"allowAllSpaceInCreatorName":false,"shouldAutofillArrangment":true,"defaultOpenBGMNewAfterPack":false,"enableFeatVocal":false}
 1	https://lain.bgm.tv/pic/crt/l/a6/e8/1_prsn_k7wpt.jpg	水樹奈々	近藤奈々 (こんどう なな)	みずき なな	Mizuki Nana	奈々ちゃん、奈々さん、奈々様、お奈々、ヘッド
 3	https://lain.bgm.tv/pic/crt/l/ec/cb/3_prsn_anidb.jpg	和田薫	わだ かおる	Wada Kaoru
 28	https://lain.bgm.tv/pic/crt/l/41/c7/28_prsn_0GyWJ.jpg	桜井弘明	樱井弘明	さくらい ひろあき	Sakurai Hiroaki
@@ -394,6 +394,7 @@
 5137	https://lain.bgm.tv/pic/crt/l/11/74/5137_prsn_IT72c.jpg	高橋伸也	本多啓吾	高橋 伸也	たかはし しんや	Takahashi Shin-ya
 5158	https://lain.bgm.tv/pic/crt/l/a7/d9/5158_prsn_6Y68W.jpg	斉藤佑圭	齐藤佑圭	橘桜	齋藤佑圭	さいとう ゆか	Saitou Yuka	ゆかち、ゆかちん、ゆうけい（UK）、ゆっけ
 5176	https://lain.bgm.tv/pic/crt/l/84/3a/5176_seiyu_anidb.jpg	金田アキ	金田 晶代	金田晶	Aki Kanada	金田アキ	カナダ アキ	Kanada Aki	アッキー	金田晶代
+5185	https://lain.bgm.tv/pic/crt/l/45/f9/5185_prsn_XM3PB.jpg	山口愛	山口爱	山口 愛	やまぐち めぐみ	Yamaguchi Megumi
 5206	https://lain.bgm.tv/pic/crt/l/02/2d/5206_prsn_Y0YDm.jpg	原田ひとみ	原田 ひとみ	はらだ ひとみ	Harada Hitomi	ひとみん、ハラダチャーン、ダチャン、ムッチリーニ/ムッチさん	原田ひとみ＝星川未流来＝小池こころ
 5208	https://lain.bgm.tv/pic/crt/l/c9/64/5208_prsn_ZHjr1.jpg	五十嵐裕美	五十岚裕美	いがらし ひろみ	Igarashi Hiromi	ゆきんこ	白雪碧
 5228	https://lain.bgm.tv/pic/crt/l/2b/7b/5228_prsn_tIY4W.jpg	竹達彩奈	Ayana Taketatsu	たけたつ あやな	Taketatsu Ayana	あやち、あや、あやにゃん
@@ -2475,7 +2476,6 @@
 25977	https://lain.bgm.tv/pic/crt/l/29/82/25977_prsn_5IpKP.jpg	上田瞳	上田 瞳	うえだ ひとみ	Ueda Hitomi
 25978	https://lain.bgm.tv/pic/crt/l/32/80/25978_prsn_1321f.jpg	高柳知葉	高柳 知葉	たかやなぎ ともよ	Takayanagi Tomoyo
 25988	https://lain.bgm.tv/pic/crt/l/85/81/25988_prsn_5DWfp.jpg	みずは
-25989	https://lain.bgm.tv/pic/crt/l/0d/7f/25989_prsn_2z2D4.jpg	ぺのれり	penoreri
 25990	https://lain.bgm.tv/pic/crt/l/81/12/25990_prsn_w7VE5.jpg	はるなば	奥山ナマリ	はるなばさん	harunaba
 25993	https://lain.bgm.tv/pic/crt/l/16/39/25993_prsn_T2tQn.jpg	かぼちゃ
 26042	https://lain.bgm.tv/pic/crt/l/26/a1/26042_prsn_z5xAe.jpg	まみむ	まみむくん	まあこ	まあこ	mamimu
@@ -2553,7 +2553,6 @@
 28731	https://lain.bgm.tv/pic/crt/l/5b/f9/28731_prsn_Sf3FS.jpg	安田明祐	★STAR GUiTAR	SiZK	Akiyoshi Yasuda	シズク
 28743	https://lain.bgm.tv/pic/crt/l/64/02/28743_prsn_P94Mr.jpg	先崎真琴	Senzaki Makoto
 28800	https://lain.bgm.tv/pic/crt/l/9d/03/28800_prsn_faB6G.jpg	iXima	えこいくしま	えこいくしま
-28863	https://lain.bgm.tv/pic/crt/l/12/15/28863_prsn_5bFu3.jpg	芥見下々	芥見 下々	あくたみ げげ	Akutami Gege
 28935	https://lain.bgm.tv/pic/crt/l/6a/8b/28935_prsn_3jV0J.jpg	暁Records
 29046	https://lain.bgm.tv/pic/crt/l/07/18/29046_prsn_hf2fJ.jpg	Chris Mosdell	Christopher Mosdell	クリス・モズデル
 29055	https://lain.bgm.tv/pic/crt/l/51/65/29055_prsn_9e504.jpg	木村真紀	きむら まき
@@ -2681,7 +2680,7 @@
 31651	https://lain.bgm.tv/pic/crt/l/86/bd/31651_prsn_777nI.jpg	たかしな浅妃	たかしな あさひ	Takashina Asahi
 31652	https://lain.bgm.tv/pic/crt/l/8e/9f/31652_prsn_nJeTh.jpg	池内たぬま	たぬま
 31668	https://lain.bgm.tv/pic/crt/l/cd/87/31668_prsn_Yqfdo.jpg	ウォルピスカーター	ウォルピス社	Wolpis Inc.	Wolpis Kater
-31670	https://lain.bgm.tv/pic/crt/l/81/91/31670_prsn_wFC69.jpg	三好啓太	三好启太	三好 啓太	Miyoshi Keita	みよし けいた
+31670	https://lain.bgm.tv/pic/crt/l/81/91/31670_prsn_wFC69.jpg	三好啓太	ぺのれり	penoreri	三好啓太	Miyoshi Keita	みよし けいた
 31671	https://lain.bgm.tv/pic/crt/l/c1/ee/31671_prsn_R3C8W.jpg	ラムシーニ	西村太贵	ramseeni	西村たいき / 西村 たいき / 西村太貴 / 西村 太貴
 31760	https://lain.bgm.tv/pic/crt/l/22/0c/31760_prsn_d7Dn2.jpg	櫻衣はる	宿木ハルル	夜野ほたる	櫻衣 はる	さくらい はる	Sakurai Haru
 31763	https://lain.bgm.tv/pic/crt/l/62/d8/31763_prsn_2P1uE.jpg	M2U	申東輝	SPHAZER	Rex	infinity poly	RedEye	CHAOS	Star light	M2U	신동휘	Shin Dong whi
@@ -8205,3 +8204,11 @@
 86864	https://lain.bgm.tv/pic/crt/l/e4/cb/86864_prsn_3VZhP.jpg	堀崎翔	Sho Horizaki	ほりざき しょう	Sho Horisaki
 86866	https://lain.bgm.tv/pic/crt/l/e6/98/86866_prsn_w8I4Z.jpg	湯沢貴久	Takahisa Yuzawa	ゆざわ たかひさ	Takahisa Yazawa	T. Yuzawa
 86867	https://lain.bgm.tv/pic/crt/l/79/ff/86867_prsn_kahw8.jpg	織沢てつろう	Tetsuro Ozawa	おざわ てつろう
+86873	https://lain.bgm.tv/pic/crt/l/b2/ba/86873_prsn_llRVq.jpg	Yvya	釧路ブラウンスイス横山	横山雄哉	Yuya Yokoyama
+86874	https://lain.bgm.tv/pic/crt/l/ff/87/86874_prsn_F0RM7.jpg	KE!JU	KE!JU 1%
+86875		Coyaan
+86877	https://lain.bgm.tv/pic/crt/l/45/51/86877_prsn_4z4LK.jpg	Keica*
+86878	https://lain.bgm.tv/pic/crt/l/ae/e8/86878_prsn_wnG11.jpg	432
+86879	https://lain.bgm.tv/pic/crt/l/6f/cb/86879_prsn_sp3Qi.jpg	カシラテ
+86881	https://lain.bgm.tv/pic/crt/l/27/9d/86881_prsn_Kljlk.jpg	アステカ
+86882	https://lain.bgm.tv/pic/crt/l/d0/bb/86882_prsn_gBDe8.jpg	kanakanakanatch
