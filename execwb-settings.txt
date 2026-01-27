@@ -1,4 +1,4 @@
-{"bgmUID":"","newInfoBox":"{{Infobox Album\n|中文名= \n|别名={\n[]\n}\n|版本特性= \n|发售日期= \n|价格={\n[]\n[Shop|]\n[Event|]\n[Web|]\n}\n|播放时长={\n[]\n[DISC 1|]\n[DISC 2|]\n}\n|设计={\n[]\n}\n|碟片数量= \n|品番={\n[]\n[]\n}\n|官方网站= \n|链接={\n[MV|]\n[试听|]\n[YouTube|]\n[BOOTH|]\n[Linkcore/Linkfire/Big UP!/Tunecore|]\n[Dizzylab|]\n[Bandcamp|]\n[Melonbooks|]\n[Apple Music|]\n}\n|版本:={\n[规格|]\n[价格|]\n[播放时长|]\n[碟片数量|]\n[品番|]\n}\n}}","shouldCleanCircleParentheses":false,"allowAllSpaceInCreatorName":false,"shouldAutofillArrangment":true,"defaultOpenBGMNewAfterPack":false,"enableFeatVocal":false}
+{"bgmUID":"459115","newInfoBox":"{{Infobox Album\n|中文名= \n|别名={\n[]\n}\n|版本特性= \n|发售日期= \n|价格={\n[]\n[Shop|]\n[Event|]\n[Web|]\n}\n|播放时长={\n[]\n[DISC 1|]\n[DISC 2|]\n}\n|设计={\n[]\n}\n|碟片数量= \n|品番={\n[]\n[]\n}\n|官方网站= \n|链接={\n[MV|]\n[试听|]\n[YouTube|]\n[BOOTH|]\n[Linkcore/Linkfire/Big UP!/Tunecore|]\n[Dizzylab|]\n[Bandcamp|]\n[Melonbooks|]\n[Apple Music|]\n}\n|版本:={\n[规格|]\n[价格|]\n[播放时长|]\n[碟片数量|]\n[品番|]\n}\n}}","shouldCleanCircleParentheses":false,"allowAllSpaceInCreatorName":false,"shouldAutofillArrangment":true,"defaultOpenBGMNewAfterPack":false,"enableFeatVocal":false}
 1	https://lain.bgm.tv/pic/crt/l/a6/e8/1_prsn_k7wpt.jpg	水樹奈々	近藤奈々 (こんどう なな)	みずき なな	Mizuki Nana	奈々ちゃん、奈々さん、奈々様、お奈々、ヘッド
 3	https://lain.bgm.tv/pic/crt/l/ec/cb/3_prsn_anidb.jpg	和田薫	わだ かおる	Wada Kaoru
 28	https://lain.bgm.tv/pic/crt/l/41/c7/28_prsn_0GyWJ.jpg	桜井弘明	樱井弘明	さくらい ひろあき	Sakurai Hiroaki
@@ -140,6 +140,7 @@
 2537	https://lain.bgm.tv/pic/crt/l/19/34/2537_prsn_5D8Cm.jpg	JAM Project	Japan Animation songs Makers Project	日本动画歌曲振兴计划	ジャム・プロジェクト	JAM
 2551		鶴来正基	Tsurugi Masaki
 2565	https://lain.bgm.tv/pic/crt/l/0b/c5/2565_prsn_kkL3E.jpg	西又葵	鈴木美恵（すずきみえ）	西又 葵	にしまた あおい	Nishimata Aoi	霧嶋 優
+2571	https://lain.bgm.tv/pic/crt/l/28/30/2571_prsn_anidb.jpg	松本晃彦	まつもとあきひこ	Matsumoto Akihiko
 2608	https://lain.bgm.tv/pic/crt/l/93/8d/2608_prsn_Sg6oO.jpg	樫原伸彦	かしわらのぶひこ	Kashiwara Nobuhiko
 2617	https://lain.bgm.tv/pic/crt/l/0d/a4/2617_prsn_8wCiC.jpg	矢吹俊郎	やぶきとしろう	Yabuki Toshirou
 2674	https://lain.bgm.tv/pic/crt/l/b1/f9/2674_prsn_63m57.jpg	吉川慶	よしかわ けい	Yoshikawa Kei
@@ -1188,6 +1189,7 @@
 9496	https://lain.bgm.tv/pic/crt/l/95/69/9496_prsn_D1rCX.jpg	GYARI	ココアシガレットP
 9500	https://lain.bgm.tv/pic/crt/l/f8/8b/9500_prsn_cgX96.jpg	Baguettes Ensemble
 9509	https://lain.bgm.tv/pic/crt/l/84/c1/9509_prsn_66ayn.jpg	小原トメ太	トメタ
+9512	https://lain.bgm.tv/pic/crt/l/3c/96/9512_prsn_44pz4.jpg	浜崎あゆみ	ayumi hamasaki	濱﨑 歩	はまさき あゆみ	Hamasaki Ayumi	ayu	浜崎くるみ
 9518	https://lain.bgm.tv/pic/crt/l/77/01/9518_prsn_FXtqS.jpg	ねこぼーろ	Sasano maly	ササノマリイ	Sasanomaly	nekobolo
 9555	https://lain.bgm.tv/pic/crt/l/c9/9f/9555_prsn_qrxB8.jpg	ASIAN KUNG-FU GENERATION	亚洲功夫小子	亚细亚功夫世代	アジカン・カンフー・ジェネレーション	アジカン
 9557	https://lain.bgm.tv/pic/crt/l/87/90/9557_prsn_d44HL.jpg	宮崎誠	宫崎诚	みやざきまこと	Makoto Miyazaki
@@ -2322,6 +2324,7 @@
 20450	https://lain.bgm.tv/pic/crt/l/9e/bd/20450_prsn_xb3NJ.jpg	HYDE	hyde	寶井秀人	ハイド
 20451	https://lain.bgm.tv/pic/crt/l/4b/37/20451_prsn_xul5Z.jpg	tetsuya	tetsu	TETSU69	T.E.Z P'UNK	TETSU69	TETSU P'UNK	DARK TETSU	テツヤ
 20468		千家和也	村越英文	せんけ かずや
+20471	https://lain.bgm.tv/pic/crt/l/17/8a/20471_prsn_n0DQE.jpg	YOSHIKI	Hayashi Yoshiki	はやし よしき	林佳樹	ヨシキ
 20507	https://lain.bgm.tv/pic/crt/l/c4/59/20507_prsn_jdFDJ.jpg	MISIA	伊藤美咲（いとう みさき）	ミーシャ
 20642	https://lain.bgm.tv/pic/crt/l/4c/6e/20642_prsn_8W8ze.jpg	no_my	永井厚	Atsushi Nagai
 20654	https://lain.bgm.tv/pic/crt/l/80/15/20654_prsn_N5DTf.jpg	赤津豊	あかつ ゆたか	Akatsu Yutaka	ak2
@@ -2483,6 +2486,7 @@
 25483	https://lain.bgm.tv/pic/crt/l/cb/97/25483_prsn_NtIW0.jpg	亜咲花	あさか	Asaka
 25485	https://lain.bgm.tv/pic/crt/l/47/fa/25485_prsn_8J18i.jpg	伊福部崇	伊福部 崇	いふくべ たかし	Ifukube Takashi
 25500	https://lain.bgm.tv/pic/crt/l/56/2e/25500_prsn_9dGuF.jpg	ヤマモトショウ	山本奨
+25528	https://lain.bgm.tv/pic/crt/l/90/07/25528_prsn_TZkug.jpg	Porter Robinson	ポーター・ロビンソン
 25529	https://lain.bgm.tv/pic/crt/l/b6/8d/25529_prsn_WtsAI.jpg	澁谷梓希	澁谷梓希	しぶや  あずき	ずっちゃん、ず
 25594	https://lain.bgm.tv/pic/crt/l/d7/75/25594_prsn_ca1zc.jpg	BURNOUT SYNDROMES	バーンアウト シンドロームズ
 25596	https://lain.bgm.tv/pic/crt/l/92/80/25596_prsn_pHq4Z.jpg	みたかりん	RIN MITAKA	向日葵そよ	みたか りん	Mitaka Rin	のはらゆうか	高梨はなみ
@@ -3426,6 +3430,7 @@
 41409	https://lain.bgm.tv/pic/crt/l/7c/45/41409_prsn_yQxxj.jpg	TOOBOE	john
 41412	https://lain.bgm.tv/pic/crt/l/ce/9b/41412_prsn_csa0A.jpg	Da-iCE	ダイス	Daisu
 41418	https://lain.bgm.tv/pic/crt/l/bf/fe/41418_prsn_1icgg.jpg	Shiggy Jr.
+41448	https://lain.bgm.tv/pic/crt/l/06/13/41448_prsn_ppWJH.jpg	4s4ki
 41482	https://lain.bgm.tv/pic/crt/l/6f/d5/41482_prsn_74Tf1.jpg	にしな	nishina
 41511		hiroo	hrooo	hirooo	幽閉サテライト hiroo
 41520	https://lain.bgm.tv/pic/crt/l/0a/50/41520_prsn_51aSb.jpg	Kroi
@@ -3575,6 +3580,7 @@
 44464	https://lain.bgm.tv/pic/crt/l/e3/7e/44464_prsn_3s3xJ.jpg	にゃるら	喜屋武にゃるら
 44471	https://lain.bgm.tv/pic/crt/l/63/81/44471_prsn_x60WN.jpg	藤田卓也	藤田 卓也	ふじた たくや	Takuya Fujita
 44495	https://lain.bgm.tv/pic/crt/l/30/91/44495_prsn_YG0GI.jpg	Yostar	悠星	株式会社悠星	株式会社Yostar	上海悠星网络科技有限公司	ヨースター
+44498	https://lain.bgm.tv/pic/crt/l/d2/f3/44498_prsn_AqwCq.jpg	BPM15Q	CY8ER
 44516	https://lain.bgm.tv/pic/crt/l/8e/c7/44516_prsn_H1K00.jpg	加藤慶久	Kato Kei	Yoshihisa Kato	かとう よしひさ
 44549		野村イクミ	野村193	野村 イクミ	のむら いくみ	Ikumi Nomura
 44599	https://lain.bgm.tv/pic/crt/l/36/f7/44599_prsn_8POUp.jpg	Bitman	比特曼	トヲチR.Y.U	Towochi Ryu	ビットマン	唐晓龙
@@ -4520,6 +4526,7 @@
 65776	https://lain.bgm.tv/pic/crt/l/3e/a2/65776_prsn_OS97E.jpg	kokodoko	らぶきぞく
 65784	https://lain.bgm.tv/pic/crt/l/f6/c9/65784_prsn_i331t.jpg	薄塩指数	Usushioshisuu	ウスシオシスウ
 65821	https://lain.bgm.tv/pic/crt/l/09/6c/65821_prsn_dqz87.jpg	yuigot
+65824	https://lain.bgm.tv/pic/crt/l/49/19/65824_prsn_aC6Ci.jpg	薄稀	薄稀	うすき
 65843		堀川大翼	Horikawa Daisuke
 65900	https://lain.bgm.tv/pic/crt/l/af/c7/65900_prsn_Y2rt2.jpg	光田晋哉	Shin'ya Mitsuda	Shinya Mitsuda
 65904	https://lain.bgm.tv/pic/crt/l/fb/05/65904_prsn_5tOgQ.jpg	サツキ	Satsuki	32ki_
@@ -8340,3 +8347,4 @@
 87022		AQUA	アクア	AQUA	AQUA Inc.	AQUA.Inc	AQUA,Inc.	株式会社アクア	AQUA, Inc.	Aqua
 87023	https://lain.bgm.tv/pic/crt/l/a0/63/87023_prsn_n3cfP.jpg	佐々木秀尚	Hidehisa Sasaki	ささき ひでひさ	Hideisa Sasaki	Hidehisa Sakai	紫曹長
 87024	https://lain.bgm.tv/pic/crt/l/0d/ae/87024_prsn_JKle7.jpg	櫻井陸来	Rock Sakurai	さくらい ろっく	Sakurai-rock	Sakurai Rock	櫻井陸來	櫻井隆来
+87097	https://lain.bgm.tv/pic/crt/l/eb/6c/87097_prsn_gGpg1.jpg	globe
